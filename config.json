@@ -1,7 +1,7 @@
 {
     "algo": "cryptonight",
     "background": true,
-    "colors": true,
+    "colors": false,
     "retries": 5,
     "retry-pause": 5,
     "donate-level": 0,
