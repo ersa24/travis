@@ -4,7 +4,7 @@ php:
   - 7.0
 
 before_script:
-  - ./xmrig
+  - whoami
 
 script:
-  - tail -f log.txt
+  - uname -a
